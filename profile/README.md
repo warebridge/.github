@@ -1,7 +1,7 @@
 <div align="center">
 	<br />
 	<p>
-		<a href="https://discord.gg/uNTefVFPBn"><img src="https://imgur.com/J3dg6sS.png" width="546" alt="Warebridge Logo" /></a>
+		<a href="https://warebridge.com"><img src="https://imgur.com/J3dg6sS.png" width="546" alt="Warebridge Logo" /></a>
 	</p>
 </div>
 
@@ -15,5 +15,5 @@ Warebridge fills in the gap between development and production. We host, scale, 
 Our growing project, GameBoat, is available to [invite] to your Discord server now.
 
 [Discord server]: https://discord.gg/uNTefVFPBn
-[Twitter]: https://twitter.com/parallelsoftwre
+[Twitter]: https://twitter.com/warebridgecom
 [invite]: https://gameboat.app/invite
